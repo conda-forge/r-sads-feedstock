@@ -9,7 +9,7 @@ About r-sads
 
 Home: http://piLaboratory.github.io/sads, https://github.com/piklprado/sads
 
-Package license: GPL-2
+Package license: GPL-2.0-only
 
 Summary: Maximum likelihood tools to fit and compare models of species abundance distributions and of species rank-abundance distributions.
 
@@ -18,7 +18,7 @@ About r-sads
 
 Home: http://piLaboratory.github.io/sads, https://github.com/piklprado/sads
 
-Package license: GPL-2
+Package license: GPL-2.0-only
 
 Summary: Maximum likelihood tools to fit and compare models of species abundance distributions and of species rank-abundance distributions.
 
