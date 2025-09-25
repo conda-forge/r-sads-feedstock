@@ -1,4 +1,4 @@
-{% set version = "0.6.3" %}
+{% set version = "0.6.5" %}
 {% set posix = 'm2-' if win else '' %}
 
 package:
@@ -9,10 +9,10 @@ source:
   url:
     - {{ cran_mirror }}/src/contrib/sads_{{ version }}.tar.gz
     - {{ cran_mirror }}/src/contrib/Archive/sads/sads_{{ version }}.tar.gz
-  sha256: 0edc6f37f407e8dc8c363cdbe871a9ebc9b56a37f104928c44f23b35b0fed3a4
+  sha256: 67ee6faede81b1161b8bf8e3b606c33f10d2e24d8ace7d54a78e9cb022a9099d
 
 build:
-  number: 3
+  number: 0
   rpaths:
     - lib/R/lib/
     - lib/
